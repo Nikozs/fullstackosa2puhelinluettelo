@@ -1,0 +1,1 @@
+# fullstackosa2puhelinluettelo
